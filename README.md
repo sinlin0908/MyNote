@@ -1,4 +1,4 @@
-# My Problems
+# My Note
 
 紀錄我生活上遇到的一些難題以及解決方法
 
@@ -9,3 +9,7 @@
 ## System
 
 1. [background process](./system/background_process.md)
+
+## Others
+
+1. [Github 使用 LaTex 問題]()
