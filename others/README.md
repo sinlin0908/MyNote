@@ -4,4 +4,4 @@
 
 ## 目錄
 
-1. [Github 使用 LaTex 問題]()
+1. [Github 使用 LaTex 問題](./github_latex.md)

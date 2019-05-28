@@ -12,4 +12,4 @@
 
 ## Others
 
-1. [Github 使用 LaTex 問題]()
+1. [Github 使用 LaTex 問題](./others/github_latex.md)
